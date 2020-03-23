@@ -5,4 +5,4 @@ Mars
 Jupiter
 Saturn
 Uranus
-and Neptune
+and Neptune and Pluto
